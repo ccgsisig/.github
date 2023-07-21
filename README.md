@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/87790430/221443473-b5b3a711-6b80-4bfd-b5ed-933d85610617.png" width = 200px></picture>
-<br>
 
 ### Some stuff about me
 - 🔭 Currently studying Computer Science and Criminology at UT Dallas
