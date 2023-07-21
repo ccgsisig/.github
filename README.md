@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="300" height="200" src="[https://i.imgur.com/wqmADSk.gif](https://tenor.com/bUZIt.gif)">
+<img align="right" width="300" height="200" src="https://i.imgur.com/wqmADSk.gif">
 
 ### Some stuff about me
 - 🔭 Currently studying Computer Science and Criminology at UT Dallas
