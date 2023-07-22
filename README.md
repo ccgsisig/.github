@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Text&weight=100&size=42&duration=6000&pause=1500&color=A50B5E&width=1050&height=100&lines=Hi!+I'm+Sisi">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=500&color=AA09FF&vCenter=true&width=435&lines=Hi!+I'm+Sisi+%E2%80%A2%E1%B4%97%E2%80%A2)](https://git.io/typing-svg)
   
 ### Some stuff about me
 - 🔭 Currently studying Computer Science and Criminology at UT Dallas
