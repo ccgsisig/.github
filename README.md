@@ -3,4 +3,3 @@
 - 🔭 Currently studying Computer Science and Criminology at UT Dallas
 - ⚛️ Doing research in Audio/Visual Biometric Security 
 - ⛸️ Former Professional Ice Skater :DDD
-- 🔮 Love to explore the unknown!
