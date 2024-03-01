@@ -2,4 +2,3 @@
 ### Some stuff about me
 - 🔭 Currently studying Computer Science and Criminology at UT Dallas
 - ⚛️ Research Interests: Audio/Visual Biometric Security 
-- ⛸️ Former Professional Ice Skater :DDD
